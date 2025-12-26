@@ -1,0 +1,7 @@
+{
+  "name": "东莞涉外法律服务平台",
+  "description": "提供全方位的涉外法律人才库、机构查询、法规政策及在线咨询服务的综合性法律服务平台。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
