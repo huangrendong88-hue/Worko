@@ -70,7 +70,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <p className="text-lg font-bold mb-2">东莞涉外法律服务平台</p>
         <p className="text-sm mb-4">主办单位：东莞市律师协会</p>
-        <p className="text-sm opacity-70">地址：广东省东莞市某某路123号 邮编：523000</p>
+        <p className="text-sm opacity-70">地址：广东省东莞市南城区天安数码科技城F3座11楼</p>
         <p className="text-sm mt-4 opacity-50">© 2024 东莞涉外法律服务平台. All rights reserved.</p>
       </div>
     </footer>

@@ -27,7 +27,7 @@ const About: React.FC = () => {
             <p className="mb-2"><strong>主办单位：</strong> 东莞市律师协会</p>
             <p className="mb-2"><strong>电话：</strong> 0769-XXXX-XXXX</p>
             <p className="mb-2"><strong>邮箱：</strong> support@dg-foreign-law.gov.cn</p>
-            <p className="mb-2"><strong>地址：</strong> 广东省东莞市中心路 101 号</p>
+            <p className="mb-2"><strong>地址：</strong> 广东省东莞市南城区天安数码科技城F3座11楼</p>
           </div>
         </div>
       </div>
